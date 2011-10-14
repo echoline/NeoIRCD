@@ -1,10 +1,4 @@
-/*
- * probably licensed under lucent something or other
- * (blatantly stolen from plan9)
- * sue me if you wish, but i own firearms
- * also, kudos to plan9 crowd.  so don't sue me.
- * OR I KEEL U
- */
+// Copyright (C) 2003, Lucent Technologies Inc. and others. All Rights Reserved.
 #include "avl.h"
 
 /*
